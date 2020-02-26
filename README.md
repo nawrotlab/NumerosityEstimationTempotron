@@ -1,5 +1,5 @@
 # NumerosityEstimationTempotron
-Project for our paper [published on iScience](https://www.cell.com/iscience/fulltext/S2589-0042(20)30035-3):
+Project for our paper [published in iScience](https://www.cell.com/iscience/fulltext/S2589-0042(20)30035-3):
 
 `Rapp, H., Nawrot, M. P., & Stern, M.. (2020). Numerical Cognition Based on Precise Counting with a Single Spiking Neuron. iScience, 23(2), 100852.`
 
